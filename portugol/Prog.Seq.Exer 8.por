@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Matematica --> mat
+	inclua biblioteca Matematica --> mat
 	
 	
 	funcao inicio()
@@ -10,7 +10,7 @@ programa
 			const real porImposto = 0.45 //45%
 			
 			real custoConsumidor = 0.00
-			real custoFabrica = 0.00
+			real custoFabrica = 0.00
 			real porcentagemDistribuidor = 0.00
 			real impostos = 0.00
 
