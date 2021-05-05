@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.aula1Atividades;
 
 import java.util.Scanner;
 
@@ -8,7 +8,6 @@ public class FahrenheitCelcius {
 		
 		//Variaveis
 		String nome;
-		float temperaturaG;
 		float temperaturaF;
 		float resultado;
 		Scanner leia = new Scanner(System.in);
