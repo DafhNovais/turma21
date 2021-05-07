@@ -1,9 +1,8 @@
-package exercicios.Lista1;
+package lista1;
 
 import java.util.Scanner;
 
 public class ProgSeqExer2 {
-	
 	
 	public static void main(String[] args) {
 		

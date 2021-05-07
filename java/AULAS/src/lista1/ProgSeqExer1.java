@@ -1,12 +1,11 @@
-package exercicios.Lista1;
+package lista1;
 
 import java.util.Scanner;
 
 public class ProgSeqExer1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+				
 		Scanner leia = new Scanner(System.in);
 		
 		//variaveis
