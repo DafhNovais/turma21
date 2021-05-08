@@ -25,11 +25,7 @@ public class DadosPessoa {
 		
 		System.out.printf("Olá %s você tem %d anos, e se identifica como ..%c", nome, idade, genero);
 		
-		
-		
-		
-		
-		
+			
 	}
 
 }
