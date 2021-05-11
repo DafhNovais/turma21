@@ -28,8 +28,8 @@ public class FuncionarioExer4 {
 		System.out.println("\nInformações do funcionário: \n");
 		
 		System.out.print("funcionário(a) "+ nome);
-		System.out.println("Idade: "); fun1.idade();
-		System.out.println("Setor de atuação: "+ setorAtuacao);
+		System.out.print("\nIdade: "); fun1.idade();
+		System.out.println("\nSetor de atuação: "+ setorAtuacao);
 		System.out.print("Identificação N°: "); fun1.codigo();
 		System.out.print("Expediente até "); fun1.expediente();System.out.print("h");
 	}
