@@ -1,6 +1,6 @@
 package lista6;
 
-public abstract class Animal {
+public class Animal {
 	
 	private String nome;
 	private int idade;
@@ -22,7 +22,7 @@ public abstract class Animal {
 		return nome;
 	}
 
-	public void setNome(String nome) {
+	public void setNome(final String nome) {
 		this.nome = nome;
 	}
 
@@ -49,5 +49,9 @@ public abstract class Animal {
 	public void setAcao(String acao) {
 		this.acao = acao;
 	}
+
+	
+	
+	
 
 }

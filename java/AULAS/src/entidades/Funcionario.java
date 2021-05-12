@@ -28,13 +28,6 @@ public class Funcionario {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
 	public void genero() 
 	{
 		if (genero == 'F' || genero == 'f')
