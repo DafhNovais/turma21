@@ -44,6 +44,6 @@ select nome, quantidade, valor, tipo from tb_produto inner join tb_categoria on 
 
 select * from tb_produto inner join tb_categoria on tb_categoria.id = tb_produto.tipo where tb_categoria.categoria = "cosmético";
 
-select * from tb_produto inner join tb_categoria on tb_categoria.id = tb_produto.tipo where tb_categoria.categoria = "antiinflamatório";
-
 select * from tb_produto inner join tb_categoria on tb_categoria.id = tb_produto.tipo where tb_categoria.categoria = "analgésico";
+
+select * from tb_produto inner join tb_categoria on tb_categoria.id = tb_produto.tipo where tb_categoria.categoria = "antiinflamatório";
